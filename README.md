@@ -3,6 +3,14 @@
 A Deep Learning project that uses a Convolutional Neural Network (CNN)
 to classify fruit images into 12 categories using TensorFlow and Keras.
 
+## CNN Fruits Classification
+
+### Dataset
+[Access Dataset on Google Drive](https://drive.google.com/drive/folders/1oNZy_gwEE8h0viWW4Rgs96uyPNfa7cxY?usp=drive_link)
+
+### Trained Model
+[Download CNN Model](https://drive.google.com/file/d/1mUoMmuN7R7tHeOU955IVrC-Qw40b2JPP/view?usp=drive_link)
+
 ## Project Overview
 
 This notebook demonstrates an image-classification workflow: - Load
